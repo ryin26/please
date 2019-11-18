@@ -1,7 +1,11 @@
 {
-  "name": "jianshu",
+  "name": "myrest",
   "version": "0.1.0",
   "private": true,
+  "engines":{
+    "node": "10.16.3",
+    "npm": "6.9.0"
+  },
   "dependencies": {
     "axios": "^0.18.0",
     "highcharts": "^7.2.1",
